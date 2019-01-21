@@ -4,7 +4,7 @@ This sketch is tested and fully functional on a Kamstrup Omnipower 684, but shou
 # BOM
 I used these parts:
 <ul>
-    <li>D1/D2 TCRT5000 IR sensor: https://trab.dk/sensorer/236-tcrt5000-ir-objekt-sensor.html</li>
+    <li>D1/D2 TCRT5000 IR sensor: https://trab.dk/sensorer/47-ir-reflektiv-optisk-sensor.html</li>
     <li>R1 1K ohm</li>
     <li>R2 10K ohm</li>
     <li>Arduino board Nano: https://trab.dk/boards/12-nano.html</li>
