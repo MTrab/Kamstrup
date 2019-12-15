@@ -1,3 +1,6 @@
+# DOES NOT WORK ON NEWER KAMSTRUP FIRMWARE IN DENMARK [danish text follows]
+Pga. GDPR er forsynings virksomhederne begyndt at lukke for IR adgang - al adgang skal fremadrettet ske via et HAN modul (f.eks. Smart-Me) og med en krypteringsnøgle som udleveres af forsynings virkesomheden, på forlangende.
+
 # Kamstrup Multical Electrical Meter Data Extractor
 This sketch is tested and fully functional on a Kamstrup Omnipower 684, but should work with the older Multical 382 meters as well
 
